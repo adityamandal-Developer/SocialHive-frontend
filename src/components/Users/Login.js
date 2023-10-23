@@ -12,8 +12,8 @@ const Login = () => {
   //dispatch
   const dispatch = useDispatch();
   const [formData, setFormData] = useState({
-    password: "1234",
-    username: "aditya",
+    password: "",
+    username: "",
   });
 
   const handleChange = (e) => {
