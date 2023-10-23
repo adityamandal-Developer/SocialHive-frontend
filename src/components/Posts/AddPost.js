@@ -20,7 +20,7 @@ const AddPost = () => {
     }
   })
   //getting posts from store
-  const { post, error, loading, success } = useSelector((state) => state?.posts)
+  const { error, loading, success } = useSelector((state) => state?.posts)
 
   useEffect(() => {
     dispatch(fetchingCategoriesAc());
