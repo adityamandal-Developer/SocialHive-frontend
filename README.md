@@ -1,7 +1,7 @@
 
 # Social Hive
 
-SocialHive is a social media-blog like Webapp where users and write there thoughts, post images, comment , like posts and can do many more things 
+SocialHive is a social media-blog like Webapp where users and write there thoughts, post images, comment , like posts and can do many more things ( IMPORTANT NOTE:- server might be down due to inactive MongoDB server and Google account for verification)
 
 
 ## Features
